@@ -1,0 +1,310 @@
+11:59:22 AM - CIB_RPA - INFO - We are going to http://localhost/mysite/11:59:22 AM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__1__t_2023-03-13_11-59-22\Step_1_INFO_GotoUrl_2023-03-13_11-59-22.png11:59:22 AM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 35a8bde4-2cc9-48af-a51e-6d2c76e1f4ca, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__1__t_2023-03-13_11-59-22 
+11:59:23 AM - CIB_RPA - info - set E1b1234
+11:59:23 AM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 6a133b5e-3d9d-4d15-a0fb-e43b226dc1eb, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__1__t_2023-03-13_11-59-22 
+11:59:24 AM - CIB_RPA - info - set 1234556
+11:59:24 AM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: b940a0e4-a331-4d4d-a88c-d99f482a84ac, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__1__t_2023-03-13_11-59-22 
+12:02:05 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/12:02:06 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__2__t_2023-03-13_12-02-05\Step_1_INFO_GotoUrl_2023-03-13_12-02-05.png12:02:06 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: bdc2a204-d882-4268-b3a7-e6b833ec1663, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__2__t_2023-03-13_12-02-05 
+12:02:06 PM - CIB_RPA - info - set E1b1234
+12:02:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 53bab231-e11f-41dd-a631-0d2280c6578b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__2__t_2023-03-13_12-02-05 
+12:02:07 PM - CIB_RPA - info - set 1234556
+12:02:07 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: e14d72f2-8880-4c02-9f89-38404c328f89, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__2__t_2023-03-13_12-02-05 
+02:54:48 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/02:54:49 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__3__t_2023-03-13_14-54-48\Step_1_INFO_GotoUrl_2023-03-13_14-54-48.png02:54:49 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: e6a53d5d-dba6-4dba-ac96-9afc183e7a04, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__3__t_2023-03-13_14-54-48 
+02:54:50 PM - CIB_RPA - info - set E1b1234
+02:54:50 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 9c19a007-a366-4125-8b41-23967a47b1fc, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__3__t_2023-03-13_14-54-48 
+02:54:50 PM - CIB_RPA - info - set 1234556
+02:54:50 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: d22e342a-5b5c-42f0-9d98-90b221c642c0, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__3__t_2023-03-13_14-54-48 
+02:56:23 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/02:56:24 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__4__t_2023-03-13_14-56-23\Step_1_INFO_GotoUrl_2023-03-13_14-56-23.png02:56:24 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 0a681b5d-a2ff-4277-8b78-ee5704c33a59, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__4__t_2023-03-13_14-56-23 
+02:56:24 PM - CIB_RPA - info - set E1b1234
+02:56:25 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: a44b1615-918a-4641-9ffe-b9c3fa5e40e5, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__4__t_2023-03-13_14-56-23 
+02:56:25 PM - CIB_RPA - info - set 1234556
+02:56:25 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: f2997551-80c1-46f2-96ed-862e3e59e1c9, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__4__t_2023-03-13_14-56-23 
+02:58:09 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/02:58:10 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__5__t_2023-03-13_14-58-09\Step_1_INFO_GotoUrl_2023-03-13_14-58-09.png02:58:10 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: af8c20b3-f859-418b-8cb2-b416b390b02c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__5__t_2023-03-13_14-58-09 
+02:58:11 PM - CIB_RPA - info - set E1b1234
+02:58:11 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: cec84025-f36f-44f3-a79b-23080cb7cafb, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__5__t_2023-03-13_14-58-09 
+02:58:11 PM - CIB_RPA - info - set 1234556
+02:58:11 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 3b658213-14b0-46c0-b615-12c14e6228e6, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__5__t_2023-03-13_14-58-09 
+03:01:07 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:01:08 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__6__t_2023-03-13_15-01-07\Step_1_INFO_GotoUrl_2023-03-13_15-01-07.png03:01:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 98391200-592f-4ffc-a9ed-f8922ab833c2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__6__t_2023-03-13_15-01-07 
+03:01:08 PM - CIB_RPA - info - set E1b1234
+03:01:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: b304fd3a-d8ba-4688-8ac7-3d7b42cf954c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__6__t_2023-03-13_15-01-07 
+03:01:08 PM - CIB_RPA - info - set 1234556
+03:01:09 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: de2a2cee-4560-48e6-a77a-badd8d328c54, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__6__t_2023-03-13_15-01-07 
+03:05:20 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:05:20 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__7__t_2023-03-13_15-05-20\Step_1_INFO_GotoUrl_2023-03-13_15-05-20.png03:05:20 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 8eb144a2-f4fb-424b-8fde-503b1e3627c3, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__7__t_2023-03-13_15-05-20 
+03:05:21 PM - CIB_RPA - info - set E1b1234
+03:05:21 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: eade9507-b5fd-40c8-95e1-f1ab5d899d58, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__7__t_2023-03-13_15-05-20 
+03:05:21 PM - CIB_RPA - info - set 1234556
+03:05:21 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 0bcd604e-68ea-4b9e-a2b3-333fde94dcb6, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__7__t_2023-03-13_15-05-20 
+03:06:21 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:06:22 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__8__t_2023-03-13_15-06-21\Step_1_INFO_GotoUrl_2023-03-13_15-06-21.png03:06:22 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 7a4ed0b6-1724-438e-b24e-b505a2ece9b8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__8__t_2023-03-13_15-06-21 
+03:06:23 PM - CIB_RPA - info - set E1b1234
+03:06:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 6f734d60-fd48-46ff-bd99-f552ab2e85d2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__8__t_2023-03-13_15-06-21 
+03:06:23 PM - CIB_RPA - info - set 1234556
+03:06:23 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 20d9df52-9837-4c8f-a939-69d520cebbc9, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__8__t_2023-03-13_15-06-21 
+03:08:56 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:08:57 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__9__t_2023-03-13_15-08-56\Step_1_INFO_GotoUrl_2023-03-13_15-08-56.png03:08:57 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 27f4d4de-752d-4046-9494-6e43d05cf393, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__9__t_2023-03-13_15-08-56 
+03:08:57 PM - CIB_RPA - info - set E1b1234
+03:08:58 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 2fb84138-35bb-47ae-8fe6-529ce24e36d3, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__9__t_2023-03-13_15-08-56 
+03:08:58 PM - CIB_RPA - info - set 1234556
+03:08:58 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 4a8d885b-391d-4b5b-9bf9-d6d988ae7bd3, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__9__t_2023-03-13_15-08-56 
+03:10:24 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:10:24 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__10__t_2023-03-13_15-10-24\Step_1_INFO_GotoUrl_2023-03-13_15-10-24.png03:10:24 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: d2ea03a9-6edb-45ae-80fb-8b2e5d8f99d3, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__10__t_2023-03-13_15-10-24 
+03:10:25 PM - CIB_RPA - info - set E1b1234
+03:10:25 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 437e3557-ed96-4747-af8c-0264eae175ef, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__10__t_2023-03-13_15-10-24 
+03:10:25 PM - CIB_RPA - info - set 1234556
+03:10:25 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 47ca5841-3f7b-40d3-ae16-fa9f3e055f4c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__10__t_2023-03-13_15-10-24 
+03:12:21 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:12:22 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__11__t_2023-03-13_15-12-21\Step_1_INFO_GotoUrl_2023-03-13_15-12-21.png03:12:22 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 839ddcf0-0139-4487-aa75-b42435dd9e5a, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__11__t_2023-03-13_15-12-21 
+03:12:22 PM - CIB_RPA - info - set E1b1234
+03:12:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 2080bb96-30df-46a3-a783-ea80b830cb69, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__11__t_2023-03-13_15-12-21 
+03:12:23 PM - CIB_RPA - info - set 1234556
+03:12:23 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: a6bcc960-725a-4cd2-9afd-2c0629fc9d86, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__11__t_2023-03-13_15-12-21 
+03:14:07 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:14:08 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__12__t_2023-03-13_15-14-07\Step_1_INFO_GotoUrl_2023-03-13_15-14-07.png03:14:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 16104bc9-439e-42f7-a178-a833dfaebf1c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__12__t_2023-03-13_15-14-07 
+03:14:08 PM - CIB_RPA - info - set E1b1234
+03:14:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: dafdd8eb-3254-4dd9-938c-b083d5e85b5b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__12__t_2023-03-13_15-14-07 
+03:14:09 PM - CIB_RPA - info - set 1234556
+03:14:09 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 44d4b824-8409-425c-85c2-98316ed9ad78, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__12__t_2023-03-13_15-14-07 
+03:14:32 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 298ee423-bb05-4dec-a97b-48cdfdc240fa, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__13__t_2023-03-13_15-14-26 
+03:14:32 PM - CIB_RPA - info - set 4
+03:14:39 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 298ee423-bb05-4dec-a97b-48cdfdc240fa, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__13__t_2023-03-13_15-14-26 
+03:14:40 PM - CIB_RPA - info - set 1000
+03:14:54 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 298ee423-bb05-4dec-a97b-48cdfdc240fa, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__13__t_2023-03-13_15-14-26 
+03:14:54 PM - CIB_RPA - info - set 10
+03:15:30 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:15:31 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__14__t_2023-03-13_15-15-30\Step_1_INFO_GotoUrl_2023-03-13_15-15-30.png03:15:31 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: d0b94ed6-68cd-44d0-bbba-bd7651134b08, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__14__t_2023-03-13_15-15-30 
+03:15:31 PM - CIB_RPA - info - set E1b1234
+03:15:31 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 8106128b-d3fa-4c29-9300-990f77b0fcbe, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__14__t_2023-03-13_15-15-30 
+03:15:32 PM - CIB_RPA - info - set 1234556
+03:15:32 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: b8f965a1-d900-4b39-8fff-f98790260afd, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__14__t_2023-03-13_15-15-30 
+03:15:53 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 6cf071f0-6c37-4160-b0a2-7aec95ae3e5c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__15__t_2023-03-13_15-15-50 
+03:15:53 PM - CIB_RPA - info - set 4
+03:16:22 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:16:23 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__16__t_2023-03-13_15-16-22\Step_1_INFO_GotoUrl_2023-03-13_15-16-22.png03:16:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 889f7557-8f98-4026-a830-035ed0466bb6, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__16__t_2023-03-13_15-16-22 
+03:16:23 PM - CIB_RPA - info - set E1b1234
+03:16:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: f0470788-ef49-463f-95d9-dbbd345c0336, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__16__t_2023-03-13_15-16-22 
+03:16:24 PM - CIB_RPA - info - set 1234556
+03:16:24 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: ea96c436-a144-46a5-a784-23a74ca4ab26, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__16__t_2023-03-13_15-16-22 
+03:16:43 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: f67b8e7f-93a5-414c-aeab-2de3f52280c5, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__17__t_2023-03-13_15-16-41 
+03:16:43 PM - CIB_RPA - info - set 4
+03:16:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: f67b8e7f-93a5-414c-aeab-2de3f52280c5, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__17__t_2023-03-13_15-16-41 
+03:16:48 PM - CIB_RPA - info - set 1000
+03:18:22 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:18:23 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__18__t_2023-03-13_15-18-22\Step_1_INFO_GotoUrl_2023-03-13_15-18-22.png03:18:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 1a3dffc6-aa15-41bc-b100-55d5b45b022f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__18__t_2023-03-13_15-18-22 
+03:18:24 PM - CIB_RPA - info - set E1b1234
+03:18:24 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: abe700c3-5a37-4e86-9317-a46066f2816f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__18__t_2023-03-13_15-18-22 
+03:18:24 PM - CIB_RPA - info - set 1234556
+03:18:24 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 573cbec0-b558-420e-a94a-c5e15d4a4ed7, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__18__t_2023-03-13_15-18-22 
+03:18:43 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 3b835f48-de37-49e6-8699-60392c84f351, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__19__t_2023-03-13_15-18-41 
+03:18:44 PM - CIB_RPA - info - set 4
+03:18:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: e471ba13-2eb7-4ee4-916b-be22fce23d9c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__19__t_2023-03-13_15-18-41 
+03:18:49 PM - CIB_RPA - info - set 1000
+03:18:56 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 5e074d29-9f52-49aa-baf0-94631daef917, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__19__t_2023-03-13_15-18-41 
+03:18:56 PM - CIB_RPA - info - set 10
+03:21:46 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:21:46 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__20__t_2023-03-13_15-21-46\Step_1_INFO_GotoUrl_2023-03-13_15-21-46.png03:21:46 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 5da45965-fd0f-459b-9cd7-ac778691089a, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__20__t_2023-03-13_15-21-46 
+03:21:47 PM - CIB_RPA - info - set E1b1234
+03:21:47 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: ae98b1f7-ec20-4a7e-afbe-deb6917248b9, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__20__t_2023-03-13_15-21-46 
+03:21:47 PM - CIB_RPA - info - set 1234556
+03:22:28 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:22:29 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__21__t_2023-03-13_15-22-28\Step_1_INFO_GotoUrl_2023-03-13_15-22-28.png03:22:29 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 38dc6594-7fa4-4666-8ed8-91afc7b15ccb, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__21__t_2023-03-13_15-22-28 
+03:22:29 PM - CIB_RPA - info - set E1b1234
+03:22:30 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: a7a3a39e-d84d-456b-89e1-d51289665105, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__21__t_2023-03-13_15-22-28 
+03:22:30 PM - CIB_RPA - info - set 1234556
+03:22:30 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 5eb6596c-eda3-4503-afb8-73f55d7be324, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__21__t_2023-03-13_15-22-28 
+03:45:31 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:45:33 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__22__t_2023-03-13_15-45-31\Step_1_INFO_GotoUrl_2023-03-13_15-45-31.png03:45:33 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: c3a66a1c-2fbd-4602-8090-78b725050594, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__22__t_2023-03-13_15-45-31 
+03:45:34 PM - CIB_RPA - info - set E1b1234
+03:45:34 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 32627efd-d030-497d-9af8-6b82573ef6a7, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__22__t_2023-03-13_15-45-31 
+03:45:34 PM - CIB_RPA - info - set 1234556
+03:45:34 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 2c5fa2d0-15da-467f-bb9e-7773c707a89a, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__22__t_2023-03-13_15-45-31 
+03:45:58 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: c33e2304-cc3d-4561-a71e-14aa52e69c19, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__23__t_2023-03-13_15-45-54 
+03:45:58 PM - CIB_RPA - info - set 4
+03:45:59 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 872b46a7-5099-4279-a3ff-8e3a788e4e93, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__23__t_2023-03-13_15-45-54 
+03:45:59 PM - CIB_RPA - info - set 1000
+03:46:51 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:46:52 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__24__t_2023-03-13_15-46-51\Step_1_INFO_GotoUrl_2023-03-13_15-46-51.png03:46:52 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 2f3e64b6-f525-4f15-8c00-3416e1f99962, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__24__t_2023-03-13_15-46-51 
+03:46:52 PM - CIB_RPA - info - set E1b1234
+03:46:52 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: f33f3983-e981-4754-a125-b4fd88df380b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__24__t_2023-03-13_15-46-51 
+03:46:53 PM - CIB_RPA - info - set 1234556
+03:46:53 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: e42649c0-c374-4f53-9cc3-934ce6ea86ea, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__24__t_2023-03-13_15-46-51 
+03:47:22 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: aaf0f8d5-86ba-4fd5-9a68-92034008c9b5, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__25__t_2023-03-13_15-47-12 
+03:47:22 PM - CIB_RPA - info - set 4
+03:47:23 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 3ea80822-1c06-4bfe-8a2c-12ae6974745f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__25__t_2023-03-13_15-47-12 
+03:47:23 PM - CIB_RPA - info - set 1000
+03:47:44 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:47:45 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__26__t_2023-03-13_15-47-44\Step_1_INFO_GotoUrl_2023-03-13_15-47-44.png03:47:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 0c17cb31-d039-45be-b0ec-90a46961a970, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__26__t_2023-03-13_15-47-44 
+03:47:45 PM - CIB_RPA - info - set E1b1234
+03:47:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 35939aa4-13a8-4419-a348-8f8385c9f544, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__26__t_2023-03-13_15-47-44 
+03:47:46 PM - CIB_RPA - info - set 1234556
+03:47:46 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 7feec5dc-92b3-45ec-bcb8-7f9adacc72ed, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__26__t_2023-03-13_15-47-44 
+03:48:43 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:48:44 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__27__t_2023-03-13_15-48-43\Step_1_INFO_GotoUrl_2023-03-13_15-48-43.png03:48:44 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 67c87264-9cf8-4ae0-b1d8-b4150af8a6c6, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__27__t_2023-03-13_15-48-43 
+03:48:44 PM - CIB_RPA - info - set E1b1234
+03:48:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 07f3a6b0-514f-4ed4-9f36-2a70b7c2d468, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__27__t_2023-03-13_15-48-43 
+03:48:45 PM - CIB_RPA - info - set 1234556
+03:48:45 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 9d962322-66a0-4828-9205-c3298bbd76a2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__27__t_2023-03-13_15-48-43 
+03:49:05 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 5a5b2e83-ae17-4f95-9489-7ab7d94a6719, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:49:05 PM - CIB_RPA - info - set 4
+03:49:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 23b590d9-87d0-477f-b890-eb1180898fa2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:49:07 PM - CIB_RPA - info - set 1000
+03:49:47 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 32be0d74-5814-4264-8ecb-ab355f1b0237, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:49:47 PM - CIB_RPA - info - set 10
+03:49:49 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: 70256233-cf08-405a-bff2-1c1acf9e0d62, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:49:49 PM - CIB_RPA - info - set Fortnight installments-15 days
+03:49:59 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 1dcf395f-ff23-485d-88fd-8646319f0e10, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:00 PM - CIB_RPA - info - set Mr.
+03:50:01 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: ae12daac-4717-45e2-8ccd-f8e026b55ff8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:01 PM - CIB_RPA - info - set Roman
+03:50:02 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 56a5d1d5-7fd2-4a31-afd8-d10ad297861f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:02 PM - CIB_RPA - info - set Mr.
+03:50:03 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Fathers name, -->  Tracking ID: 3bf801d3-2e64-4b33-ba4e-09dab04f12ad, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:04 PM - CIB_RPA - info - set Kamal Hossain
+03:50:10 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: af40f07e-1d20-4ba4-abd6-a147a64546b4, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:10 PM - CIB_RPA - info - set Mrs.
+03:50:11 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Mothers name, -->  Tracking ID: b756d3d8-2ffd-43b7-b46a-4bf44a02605b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:11 PM - CIB_RPA - info - set Sufia Begum
+03:50:12 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: def56666-bb96-4802-9600-85cd978aedba, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:12 PM - CIB_RPA - info - set Mrs.
+03:50:13 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Spouse name, -->  Tracking ID: 7d9775e5-1772-4fa5-a8df-1acde3d01238, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__28__t_2023-03-13_15-49-02 
+03:50:14 PM - CIB_RPA - info - set Charlette
+03:56:05 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:56:06 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__29__t_2023-03-13_15-56-05\Step_1_INFO_GotoUrl_2023-03-13_15-56-05.png03:56:06 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 23b32339-0e7a-4cf5-9389-68698a17e832, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__29__t_2023-03-13_15-56-05 
+03:56:06 PM - CIB_RPA - info - set E1b1234
+03:56:06 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: d3e89952-3296-4d21-80f0-62523d21281c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__29__t_2023-03-13_15-56-05 
+03:56:06 PM - CIB_RPA - info - set 1234556
+03:56:07 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: c47ad366-78fb-4f45-99d7-a974278d1e80, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__29__t_2023-03-13_15-56-05 
+03:56:26 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 616d0836-300f-4589-810d-d32eda3c41f7, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:26 PM - CIB_RPA - info - set 4
+03:56:27 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: af31f373-2157-47a6-84a4-1891b8593e9c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:27 PM - CIB_RPA - info - set 1000
+03:56:40 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 9564cd96-cb57-4f22-9eb9-c911c7ebd6b4, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:40 PM - CIB_RPA - info - set 10
+03:56:42 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: 1ddae051-63a1-4479-95a3-fbcb72467c25, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:42 PM - CIB_RPA - info - set Fortnight installments-15 days
+03:56:52 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 354775e2-4e62-417a-8227-b12dbde4aafa, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:52 PM - CIB_RPA - info - set Mr.
+03:56:53 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: c45590d9-bade-4042-a4e0-8d0c5b8e2602, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:53 PM - CIB_RPA - info - set Roman
+03:56:54 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 85d0265d-fb8d-4b64-9bdf-8dd0ac6a3e3e, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__30__t_2023-03-13_15-56-25 
+03:56:54 PM - CIB_RPA - info - set Mr.
+03:57:29 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/03:57:30 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__31__t_2023-03-13_15-57-29\Step_1_INFO_GotoUrl_2023-03-13_15-57-29.png03:57:30 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: cac77215-24ee-4301-9207-f9344cdddc8f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__31__t_2023-03-13_15-57-29 
+03:57:30 PM - CIB_RPA - info - set E1b1234
+03:57:31 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 03ceda7a-aa09-4ff0-a107-2fc5273df2cc, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__31__t_2023-03-13_15-57-29 
+03:57:31 PM - CIB_RPA - info - set 1234556
+03:57:31 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: d997d8eb-9d64-4c30-b865-09c1b467bbfb, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__31__t_2023-03-13_15-57-29 
+03:57:51 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: b91108b6-82fa-4718-8176-26cd250650f8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:57:51 PM - CIB_RPA - info - set 4
+03:59:41 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 072269ab-1d1c-4bb6-812d-100a583d1e48, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:41 PM - CIB_RPA - info - set 1000
+03:59:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 55748eff-3e9c-40e0-aac0-0e3eb9314842, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:45 PM - CIB_RPA - info - set 10
+03:59:47 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: ba731cac-e333-48d7-acba-1ec0817bb3b9, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:47 PM - CIB_RPA - info - set Fortnight installments-15 days
+03:59:50 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 417e0de8-be57-4458-b330-7d0c83ba615b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:50 PM - CIB_RPA - info - set Mr.
+03:59:53 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: bd20a1dc-1784-40c6-9f4e-e2fba56ae929, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:54 PM - CIB_RPA - info - set Roman
+03:59:55 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: be1d4cd7-3e13-476c-ae2e-4e70c0736366, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:55 PM - CIB_RPA - info - set Mr.
+03:59:56 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Fathers name, -->  Tracking ID: 36bd58b4-82c9-43c4-b98f-20d5f8632980, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:56 PM - CIB_RPA - info - set Kamal Hossain
+03:59:57 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 961db6fc-c41f-4df0-ac0f-4ac080d9c264, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:57 PM - CIB_RPA - info - set Mrs.
+03:59:59 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Mothers name, -->  Tracking ID: a91cc363-4043-428d-a652-4e8feacaa136, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+03:59:59 PM - CIB_RPA - info - set Sufia Begum
+04:00:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 552fe308-4388-481d-8e8a-1d87e697194b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+04:00:07 PM - CIB_RPA - info - set Mrs.
+04:00:12 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Spouse name, -->  Tracking ID: a1bd0373-7402-4dd5-868c-15a0c9b6c2c0, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__32__t_2023-03-13_15-57-50 
+04:00:13 PM - CIB_RPA - info - set Charlette
+04:09:24 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/04:09:25 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__33__t_2023-03-13_16-09-24\Step_1_INFO_GotoUrl_2023-03-13_16-09-24.png04:09:25 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: e89e8343-5a97-4136-b344-0849f2f155b7, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__33__t_2023-03-13_16-09-24 
+04:09:25 PM - CIB_RPA - info - set E1b1234
+04:09:26 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: b8368641-233c-4714-925f-f578479fa28c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__33__t_2023-03-13_16-09-24 
+04:09:26 PM - CIB_RPA - info - set 1234556
+04:09:26 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 33680270-26d5-4728-97e7-acec25fb20ed, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__33__t_2023-03-13_16-09-24 
+04:09:43 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 26862d3c-c3ba-49f5-8391-a854092dc218, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:43 PM - CIB_RPA - info - set 4
+04:09:43 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 1110a89b-9c82-4b13-9a5c-d080a7ea555f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:43 PM - CIB_RPA - info - set 1000
+04:09:44 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 30ad3594-8f52-4eec-b487-39e5fff66d5f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:44 PM - CIB_RPA - info - set 10
+04:09:44 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: a36ab1ae-b954-46d7-8fb2-7ec72fe13d8b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:45 PM - CIB_RPA - info - set Fortnight installments-15 days
+04:09:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 98e80bac-2265-4f79-b11c-4998302f3805, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:45 PM - CIB_RPA - info - set Mr.
+04:09:45 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: 34775095-9d2e-4571-af98-4ee4a00fae92, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:46 PM - CIB_RPA - info - set Roman
+04:09:46 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 229e1809-7c0a-4d02-b2f0-16d36fa63a04, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:46 PM - CIB_RPA - info - set Mr.
+04:09:47 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Fathers name, -->  Tracking ID: e75aed31-97de-45cc-9a8e-63ac6db4004d, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:47 PM - CIB_RPA - info - set Kamal Hossain
+04:09:47 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 41a03d12-23e2-4165-8d7a-fe2b74ac86c8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:47 PM - CIB_RPA - info - set Mrs.
+04:09:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Mothers name, -->  Tracking ID: eebed320-5e47-4c15-a157-cf39b160f7b4, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:48 PM - CIB_RPA - info - set Sufia Begum
+04:09:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 6506cff7-a721-46fa-b3fe-3d139ea7e583, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:48 PM - CIB_RPA - info - set Mrs.
+04:09:49 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Spouse name, -->  Tracking ID: a1a46701-5d1a-460b-8c69-3eafe4682aea, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:49 PM - CIB_RPA - info - set Charlette
+04:09:49 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: National ID, -->  Tracking ID: edd18572-ba3f-4905-9785-279e693b850a, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:50 PM - CIB_RPA - info - set 24739546012
+04:09:53 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: dd/mm/yyyy, -->  Tracking ID: a0fd69be-1565-4598-a6ee-46d40f6fb019, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__34__t_2023-03-13_16-09-43 
+04:09:53 PM - CIB_RPA - info - set 1234567890
+04:12:33 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/04:12:34 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__35__t_2023-03-13_16-12-33\Step_1_INFO_GotoUrl_2023-03-13_16-12-33.png04:12:34 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 23752cca-a73f-4923-9821-0db40559148a, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__35__t_2023-03-13_16-12-33 
+04:12:35 PM - CIB_RPA - info - set E1b1234
+04:12:35 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 662fd87e-7478-4131-8093-bd70a73ec0a6, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__35__t_2023-03-13_16-12-33 
+04:12:47 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/04:12:48 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__36__t_2023-03-13_16-12-47\Step_1_INFO_GotoUrl_2023-03-13_16-12-47.png04:12:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: bc78d916-8995-458f-a791-2f6236a98fdf, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__36__t_2023-03-13_16-12-47 
+04:12:48 PM - CIB_RPA - info - set E1b1234
+04:12:48 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: 440d78f6-c84b-4085-9f2c-1a9cec4f8407, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__36__t_2023-03-13_16-12-47 
+04:12:49 PM - CIB_RPA - info - set 1234556
+04:12:49 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 4d03abd4-e768-45d4-ae25-2bc5e62cea22, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__36__t_2023-03-13_16-12-47 
+04:13:05 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: cea50bcb-eeff-419d-be62-687d1fba70ad, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:05 PM - CIB_RPA - info - set 4
+04:13:05 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: dcede42f-f0cf-4701-8afa-f146fa347aa2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:06 PM - CIB_RPA - info - set 1000
+04:13:06 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 905eb0c3-40fc-44b4-8b09-b056cb62649d, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:06 PM - CIB_RPA - info - set 10
+04:13:06 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: 4208ae3e-804c-4a03-b8b7-d93174643751, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:07 PM - CIB_RPA - info - set Fortnight installments-15 days
+04:13:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: fcc0d085-e80d-424a-a8ac-2d3afa807c9b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:07 PM - CIB_RPA - info - set Mr.
+04:13:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: b4b713e6-bd1b-4c2e-9aec-8d440d1848a8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:07 PM - CIB_RPA - info - set Roman
+04:13:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 36748199-9c07-4181-912e-63c2ec7736a3, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:08 PM - CIB_RPA - info - set Mr.
+04:13:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Fathers name, -->  Tracking ID: 34740ced-4566-47f8-a663-27c3c7a9d570, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:08 PM - CIB_RPA - info - set Kamal Hossain
+04:13:09 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 2a2efc5c-123e-457d-bb56-af1da569bb26, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:09 PM - CIB_RPA - info - set Mrs.
+04:13:09 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Mothers name, -->  Tracking ID: 2b291397-a5d1-4c3a-84e4-2390423afebd, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:09 PM - CIB_RPA - info - set Sufia Begum
+04:13:10 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: a09b10cd-5a6c-48f0-8ee4-26ee21c978d9, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:10 PM - CIB_RPA - info - set Mrs.
+04:13:10 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Spouse name, -->  Tracking ID: 078b97de-8b1d-44f9-bae0-501013b0c9c0, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:10 PM - CIB_RPA - info - set Charlette
+04:13:11 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: National ID, -->  Tracking ID: 594739b1-e014-44e4-a0fc-8d8bbd691aad, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:11 PM - CIB_RPA - info - set 24739546012
+04:13:11 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: tin, -->  Tracking ID: 3fccfa7c-0f11-446a-8937-3a57c02731fe, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__37__t_2023-03-13_16-13-05 
+04:13:12 PM - CIB_RPA - info - set 1234567890
+04:14:07 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/04:14:07 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__38__t_2023-03-13_16-14-06\Step_1_INFO_GotoUrl_2023-03-13_16-14-06.png04:14:07 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 0533ade9-3f19-4bbf-a37d-ab7151006e3c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__38__t_2023-03-13_16-14-06 
+04:14:08 PM - CIB_RPA - info - set E1b1234
+04:14:08 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: a9c0ed74-1ca4-4218-9810-611999db3107, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__38__t_2023-03-13_16-14-06 
+04:14:08 PM - CIB_RPA - info - set 1234556
+04:14:09 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: d9dd55bc-231a-4317-b4a3-105b1dece542, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__38__t_2023-03-13_16-14-06 
+04:14:25 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: no of installment, -->  Tracking ID: 48152fc5-542a-4f69-b223-10aed58ca164, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:25 PM - CIB_RPA - info - set 4
+04:14:26 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Installment Amount, -->  Tracking ID: 7963efa1-3081-4794-b688-c75cbdebd06c, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:26 PM - CIB_RPA - info - set 1000
+04:14:26 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: total finance amount, -->  Tracking ID: 75508530-6668-40da-92ea-b48cf72492dc, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:26 PM - CIB_RPA - info - set 10
+04:14:27 PM - CIB_RPA - info - got a  select, type: combobox,  -->  Field or Name: , -->  Tracking ID: 8e537e2a-e99d-4214-b1ad-db2fdaf16838, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:27 PM - CIB_RPA - info - set Fortnight installments-15 days
+04:14:27 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: f68cb1ac-8aec-4817-9caa-f5f8030d7459, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:27 PM - CIB_RPA - info - set Mr.
+04:14:27 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Name, -->  Tracking ID: 564f7999-2d18-4753-928b-d588b87c29a2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:28 PM - CIB_RPA - info - set Roman
+04:14:28 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: ccf9f7b8-6d32-4c85-93aa-f39142e7fe60, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:28 PM - CIB_RPA - info - set Mr.
+04:14:28 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Fathers name, -->  Tracking ID: 5a24ea0f-7ce5-4436-b237-ff353da733d8, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:29 PM - CIB_RPA - info - set Kamal Hossain
+04:14:29 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 63a2fdcf-9340-4f50-b30d-8ab06a279b42, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:29 PM - CIB_RPA - info - set Mrs.
+04:14:29 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Mothers name, -->  Tracking ID: 8195aa51-481e-4f7b-8406-09fe5a39bb31, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:30 PM - CIB_RPA - info - set Sufia Begum
+04:14:30 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Title, -->  Tracking ID: 65604ed6-5086-45c0-a6da-e1c4e402d319, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:30 PM - CIB_RPA - info - set Mrs.
+04:14:30 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Spouse name, -->  Tracking ID: 6b7f1b6f-2427-4dda-aec7-8c201cbbd3f2, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:31 PM - CIB_RPA - info - set Charlette
+04:14:31 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: National ID, -->  Tracking ID: b230876a-2e11-4bf2-b5cf-9cd2ece6648f, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:32 PM - CIB_RPA - info - set 24739546012
+04:14:32 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: tin, -->  Tracking ID: 225d41b2-552b-439c-97fb-3dd159d8069b, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__39__t_2023-03-13_16-14-25 
+04:14:32 PM - CIB_RPA - info - set 1234567890
+04:48:53 PM - CIB_RPA - INFO - We are going to http://localhost/mysite/04:48:55 PM - CIB_RPA - INFO - Successfully got http://localhost/mysite/, screenshot: logs/media/screenshot\Run__40__t_2023-03-13_16-48-53\Step_1_INFO_GotoUrl_2023-03-13_16-48-53.png04:48:55 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Username, -->  Tracking ID: 53942076-e06c-45ec-b571-078840416512, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__40__t_2023-03-13_16-48-53 
+04:48:55 PM - CIB_RPA - info - set E1b1234
+04:48:55 PM - CIB_RPA - info - got a  input, type: textbox,  -->  Field or Name: Password, -->  Tracking ID: cd5d1af1-fb42-4197-89d4-23abeb141136, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__40__t_2023-03-13_16-48-53 
+04:48:56 PM - CIB_RPA - info - set 1234556
+04:48:56 PM - CIB_RPA - info - got a  a, type: link,  -->  Field or Name: Unknown, -->  Tracking ID: 5b6e7c21-8e9a-4e48-9bb4-9b84cccc466d, --> ScreenShot media location: logs/media/screenshot, -->  Folder name for each run case: Run__40__t_2023-03-13_16-48-53 
+
